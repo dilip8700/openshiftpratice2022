@@ -1,0 +1,1 @@
+# openshiftpratice2022
